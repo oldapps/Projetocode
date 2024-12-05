@@ -1,3 +1,4 @@
 void main() {
-  print("Ola mundo");
+  String Nome = "Andrei";
+  print("$Nome");
 }
